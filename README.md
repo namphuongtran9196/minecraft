@@ -1,26 +1,32 @@
-# minecraft
-https://www.curseforge.com/minecraft/mc-mods/dynamictrees
-https://www.curseforge.com/minecraft/mc-mods/first-person-model
-https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files
-https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod
-https://www.curseforge.com/minecraft/mc-mods/effective
-https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
-https://www.curseforge.com/minecraft/mc-mods/realistic-item-drops
-https://www.curseforge.com/minecraft/mc-mods/dynamic-surroundings
-https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
-https://www.curseforge.com/minecraft/mc-mods/distant-horizons
-https://www.curseforge.com/minecraft/mc-mods/dehydration
-https://www.curseforge.com/minecraft/mc-mods/terralith
-https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge
-https://minecrafthub.com/mod/eating-animation-mod-for-minecraft-1-19-1
-https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master
-https://www.curseforge.com/minecraft/mc-mods/visual-workbench
-https://www.curseforge.com/minecraft/mc-mods/sodium/files
-https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
-https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod
-[New Dimension]
-https://www.curseforge.com/minecraft/mc-mods/the-undergarden
-https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge
-https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
-https://www.curseforge.com/minecraft/mc-mods/blue-skies
-https://www.curseforge.com/minecraft/mc-mods/beyond-earth
+# Minecraft
+
+## Client
+- [First Person model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
+- [Sodium - FPS enhancement](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
+- [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
+- [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
+- [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
+- [Falling leaves forge](https://www.curseforge.com/minecraft/mc-mods/falling-leaves-forge)
+- [Eating animation mod](https://minecrafthub.com/mod/eating-animation-mod-for-minecraft-1-19-1)
+- [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
+## Server
+### Hiện đang chạy trên server
+#### Mods chức năng
+- [Diagonal fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files)
+- [Biomes O's Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Alexs Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
+- [Dehydration](https://www.curseforge.com/minecraft/mc-mods/dehydration)
+- [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
+- [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
+- [Mrcrayfish Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
+#### Không gian mới
+- [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
+- [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
+- [Blue skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
+- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
+-----
+### Đợi bản cập nhật cho version mới
+- [Dynamic Trees]https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
+- [Epic-fight-mod](https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod)
+- [Immersive FX](https://www.curseforge.com/minecraft/mc-mods/immersive-fx)
