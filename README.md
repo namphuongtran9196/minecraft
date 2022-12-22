@@ -14,7 +14,7 @@
 - [Diagonal fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files)
 - [Biomes O's Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Alexs Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
-- [Dehydration](https://www.curseforge.com/minecraft/mc-mods/dehydration)
+- [Tough as nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
 - [Mrcrayfish Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
