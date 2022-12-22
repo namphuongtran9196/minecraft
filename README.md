@@ -15,6 +15,7 @@
 - [Biomes O's Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Alexs Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 - [Tough as nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
+- [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
 - [Mrcrayfish Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
