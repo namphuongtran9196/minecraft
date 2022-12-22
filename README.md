@@ -2,7 +2,6 @@
 
 ## Client
 - [First Person model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
-- [Sodium - FPS enhancement](https://www.curseforge.com/minecraft/mc-mods/sodium/files)
 - [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
