@@ -1,7 +1,7 @@
 # Minecraft
 
 ## Client
-- [First Person model](https://www.curseforge.com/minecraft/mc-mods/first-person-model)
+- [First Person model](https://www.curseforge.com/minecraft/mc-mods/first-person-model), [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 - [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
 - [Distant Horizons](https://www.curseforge.com/minecraft/mc-mods/distant-horizons)
