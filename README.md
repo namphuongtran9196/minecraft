@@ -12,7 +12,7 @@
 ### Hiện đang chạy trên server
 #### Mods chức năng
 - [Diagonal fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files)
-- [Biomes O's Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
+- [Biomes O's Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty), [Terrablender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [Alexs Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 - [Tough as nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
