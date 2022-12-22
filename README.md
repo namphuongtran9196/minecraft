@@ -11,6 +11,7 @@
 - [Eating animation mod](https://minecrafthub.com/mod/eating-animation-mod-for-minecraft-1-19-1)
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
 - [Dynamic Surrounding Resurrected](https://www.curseforge.com/minecraft/mc-mods/dynamic-surrounding-resurrected/files)
+- [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
 ## Server
 ### Hiện đang chạy trên server
     Cần phải tải toàn bộ để có thể truy cập server.
@@ -22,7 +23,6 @@
 - [Tough as nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
-- [YDM's Weapon Master](https://www.curseforge.com/minecraft/mc-mods/ydms-weapon-master)
 - [Mrcrayfish Furniture Mod](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)
 -----
 #### Không gian mới
