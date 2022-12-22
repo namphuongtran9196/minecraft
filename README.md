@@ -30,8 +30,7 @@
 - [The Bumblezone](https://www.curseforge.com/minecraft/mc-mods/the-bumblezone-forge)
 - [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
 - [Blue skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
+- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
 ### Đợi bản cập nhật cho version mới
 - [Dynamic Trees](https://www.curseforge.com/minecraft/mc-mods/dynamictrees)
-- [Epic-fight-mod](https://www.curseforge.com/minecraft/mc-mods/epic-fight-mod) - Incompatible -> Epic Fight mod
-- [Immersive FX](https://www.curseforge.com/minecraft/mc-mods/immersive-fx)
-- [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
+
