@@ -11,7 +11,7 @@
 - [Eating animation mod](https://minecrafthub.com/mod/eating-animation-mod-for-minecraft-1-19-1)
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
 - [Dynamic Surrounding Resurrected](https://www.curseforge.com/minecraft/mc-mods/dynamic-surrounding-resurrected/files)
-
+- [Dynamic Lights](https://tlmods.org/en/mods/dynamic-lights)
 ## Server
 ### Hiện đang chạy trên server
     Cần phải tải toàn bộ để có thể truy cập server.
