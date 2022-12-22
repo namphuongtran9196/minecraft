@@ -1,6 +1,7 @@
 # Minecraft
 
 ## Client
+- Có thể tải các mod dưới đây về máy hoặc không cần. 
 - [First Person model](https://www.curseforge.com/minecraft/mc-mods/first-person-model), [Not enough animations](https://www.curseforge.com/minecraft/mc-mods/not-enough-animations)
 - [Xaeros Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)
 - [Effective](https://www.curseforge.com/minecraft/mc-mods/effective)
@@ -10,6 +11,7 @@
 - [Visual Workbench](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)
 ## Server
 ### Hiện đang chạy trên server
+- Cần phải tải toàn bộ để có thể truy cập server.
 #### Mods chức năng
 - [Diagonal fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files)
 - [Biomes O's Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty), [Terrablender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
