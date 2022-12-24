@@ -18,11 +18,13 @@
 -----
 #### Mods chức năng
 - [DiagonaOhl fences](https://www.curseforge.com/minecraft/mc-mods/diagonal-fences/files)
-- [Biomes O's Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty), [Terrablender](https://www.curseforge.com/minecraft/mc-mods/terrablender)
 - [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)
 - [Alexs Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)
 - [Tough as nails](https://www.curseforge.com/minecraft/mc-mods/tough-as-nails)
 - [Serene Seasons](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)
+- [Simple Login](https://www.curseforge.com/minecraft/mc-mods/simple-login)
+- [Falling tree](https://www.curseforge.com/minecraft/mc-mods/falling-tree)
+#### Mods chức năng không cần tải
 - [Terralith](https://www.curseforge.com/minecraft/mc-mods/terralith)
 - [Epic Trees](https://www.curseforge.com/minecraft/mc-mods/epictrees)
 - [Sky Villages](https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge)
@@ -30,8 +32,8 @@
 -----
 #### Không gian mới
 - [The Undergarden](https://www.curseforge.com/minecraft/mc-mods/the-undergarden)
-- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
-- [Blue skies](https://www.curseforge.com/minecraft/mc-mods/blue-skies)
 
-### Đợi bản cập nhật cho version mới
+
+### Sẽ thêm sau
 - [Beyond Earth](https://www.curseforge.com/minecraft/mc-mods/beyond-earth)
+- [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest)
